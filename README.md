@@ -77,12 +77,12 @@ A **Retrieval‑Augmented Generation (RAG)** chatbot that lets you upload PDF do
 - 🧠 Smart prompts (summary, detail extraction, creative outputs)
 - 🪪 Answer citations for accuracy
 
-### 🚁 [Vaayu – Drone Image Segmentation](https://github.com/Shubham-Badhe-14/ProjectVaayu)
+### 🚁 [Vaayu – Drone Image Segmentation](https://github.com/Kabeer2004/ProjectVaayu)
 **Tech Stack:** *Python, PyTorch, OpenCV*
 - developed **UNet++** based segmentation of drone images for environmental monitoring.
 - 🏆 Secured **2nd place at Smart India Hackathon (SIH)**.
 
-### 🧠 Sentient – AI Personal Assistant
+### 🧠 [Sentient – AI Personal Assistant](https://github.com/existence-master/Sentient)
 **Tech Stack:** *Python, LangChain, OpenAI API*
 An AI assistant capable of executing tasks, retrieving information, and integrating with APIs.
 
