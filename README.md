@@ -117,7 +117,7 @@ Building ETL pipelines for large datasets, integrating with Power BI for reporti
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/shubham-badhe">
+  <a href="https://www.linkedin.com/in/shubham-badhe-516827330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubhambadhe14@gmail.com">
