@@ -97,9 +97,9 @@ Building ETL pipelines for large datasets, integrating with Power BI for reporti
 ---
 
 ## ⚡ Fun Facts
-- 🧩 I enjoy solving challenging AI problems that mix theory with practical application.
+- 🧩 I enjoy playing video games a lot.
 - 🔭 Constantly exploring new technologies, especially in AI, ML, and cloud computing.
-- 🌍 Believe in building projects that have real-world impact.
+- 🌍 Believe in building projects & solving challenging that have problems that mix theory with practical application.
 
 ---
 
